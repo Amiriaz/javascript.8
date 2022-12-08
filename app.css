@@ -1,0 +1,19 @@
+.circle{
+    background-color: blue;
+    border-radius: 150px;
+    cursor: pointer; 
+}
+
+#countdown-container {
+    border-radius: 150px;
+    display: inline-block;
+}
+#countdown {
+    display: inline-block;
+    color: white;
+}
+
+#countdown span {
+    font-weight: bold;
+    font-size: 30px;
+}
